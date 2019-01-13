@@ -1,0 +1,17 @@
+name: souphub
+version: 0.1.0
+
+authors:
+  - Niels Nielsen
+
+targets:
+  souphub:
+    main: src/souphub.cr
+
+crystal: 0.27.0
+
+license: MIT
+
+dependencies:
+  raze:
+    github: samueleaton/raze
